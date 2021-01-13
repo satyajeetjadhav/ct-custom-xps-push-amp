@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "108090693857",
+    "firebase_url": "https://clevertap-tam.firebaseio.com",
+    "project_id": "clevertap-tam",
+    "storage_bucket": "clevertap-tam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108090693857:android:7a1ffefd3e21424d53bfa0",
+        "android_client_info": {
+          "package_name": "com.ct.xps_custom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108090693857-ogin6f6fr3v2evl9jc63oev1ic9g6lrn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtvBXuOyHURVNxRvv9r-jhodBz-5wcqrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108090693857-ogin6f6fr3v2evl9jc63oev1ic9g6lrn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108090693857:android:2fef1eb7f5c2a76b53bfa0",
+        "android_client_info": {
+          "package_name": "com.example.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108090693857-ogin6f6fr3v2evl9jc63oev1ic9g6lrn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtvBXuOyHURVNxRvv9r-jhodBz-5wcqrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108090693857-ogin6f6fr3v2evl9jc63oev1ic9g6lrn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
